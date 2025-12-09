@@ -1,53 +1,81 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0_141321_100,50_00ffff_50,100_ff00ff_50&height=300&section=header&text=Rishi%20Kumavat&fontSize=90&fontColor=ffffff&fontAlign=50&fontAlignY=35&animation=fadeIn&desc=Cybersecurity%20Student%20//%20Frontend%20Dev&descSize=25&descAlign=50&descAlignY=60" alt="Cyber Header" width="1000" />
+ 
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
+
+  <h1 align="center">SYSTEM ONLINE... WELCOME, <span style="color:#00f2ff">RISHI KUMAVAT</span></h1>
+
+  <p align="center">
+    <a href="https://github.com/rishikumavatcoder">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=24&duration=3000&pause=1000&color=00F2FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Cyber+Security+Enthusiast;System+Architecture+Designer;Building+The+Future+In+Code" alt="Typing SVG" />
+    </a>
+  </p>
+
+  <p align="center"> 
+    <samp>
+      > ACCESSING MAINFRAME...<br>
+      > USER IDENTIFIED: RISHIKUMAVATCODER<br>
+      > MISSION: DEPLOYING SCALABLE SOLUTIONS<br>
+      > STATUS: <span style="color:#39ff14">ONLINE & CODING</span>
+    </samp>
+  </p>
+
+  <br/>
+
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/YOUR_TWITTER_USERNAME">
+    <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME">
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  
 </div>
 
+<br/>
+
+### 🛠️ // TECH_STACK_MODULE
+
 <div align="center">
-
-![System Status](https://img.shields.io/badge/SYSTEM-ONLINE-success?style=for-the-badge&color=00ff00&labelColor=141321)
-![Security Level](https://img.shields.io/badge/SECURITY-HIGH-red?style=for-the-badge&color=ff0000&labelColor=141321)
-![Uptime](https://img.shields.io/badge/UPTIME-99.9%25-blue?style=for-the-badge&color=00ffff&labelColor=141321)
-
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,java,html,css,react,nextjs,nodejs,express,mongodb,mysql,postgres,docker,kubernetes,aws,git,linux&perline=10&theme=dark" />
 </div>
 
----
+<br/>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> **// INITIALIZING USER PROFILE...**
+### 📊 // SYSTEM_METRICS
 
-```c
-// ACCESSING BIOMETRICS...
-User: "Rishi Kumavat"
-Role: "1st Year Cybersecurity Student"
-Subsystem: "Frontend Developer"
-Location: "Earth [C-137]"
-Mission: "Mastering Ethical Hacking & Secure Dev"
-[INFO]: Operating at the intersection of creative design and system security. My objective is to architect web experiences that are visually stunning and impenetrable.
-
-🔭 Current Operation: Analyzing Network Security Fundamentals & Linux Architecture.
-
-⚡ Mainframe Activities: Building stylized web components.
-
-🧩 Side Quest: Creating digital art inspired by superhero aesthetics.
-
-<img src="https://www.google.com/search?q=https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> // WEAPONS_OF_CHOICE
 <div align="center">
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/HTML5-E34F26%3Fstyle%3Dfor-the-badge%26logo%3Dhtml5%26logoColor%3Dwhite%26labelColor%3D141321"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/CSS3-1572B6%3Fstyle%3Dfor-the-badge%26logo%3Dcss3%26logoColor%3Dwhite%26labelColor%3D141321"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack%26labelColor%3D141321"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/PHP-777BB4%3Fstyle%3Dfor-the-badge%26logo%3Dphp%26logoColor%3Dwhite%26labelColor%3D141321"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/C-00599C%3Fstyle%3Dfor-the-badge%26logo%3Dc%26logoColor%3Dwhite%26labelColor%3D141321"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/PostgreSQL-316192%3Fstyle%3Dfor-the-badge%26logo%3Dpostgresql%26logoColor%3Dwhite%26labelColor%3D141321">
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Kali_Linux-557C94%3Fstyle%3Dfor-the-badge%26logo%3Dkali-linux%26logoColor%3Dwhite%26labelColor%3D141321"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite%26labelColor%3D141321"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/VS_Code-007ACC%3Fstyle%3Dfor-the-badge%26logo%3Dvisual-studio-code%26logoColor%3Dwhite%26labelColor%3D141321">
-
+  <br>
+  <a href="https://github.com/rishikumavatcoder">
+    <img src="https://github-readme-stats.vercel.app/api?username=rishikumavatcoder&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00f2ff&icon_color=39ff14&text_color=c9d1d9" alt="Rishi's Stats" />
+  </a>
+  
+  <a href="https://github.com/rishikumavatcoder">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishikumavatcoder&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00f2ff&text_color=c9d1d9" alt="Top Languages" />
+  </a>
 </div>
 
-<img src="https://www.google.com/search?q=https://media.giphy.com/media/iIYJAq752Y1YlMck7M/giphy.gif" width="50"> // DATA_ANALYTICS
+<br/>
+
 <div align="center">
-
-<a href="https://github.com/rishikumavatcoder"> <img height="180" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Drishikumavatcoder%26show_icons%3Dtrue%26hide_border%3Dtrue%26bg_color%3D141321%26title_color%3D00ffff%26icon_color%3Dff00ff%26text_color%3Dffffff" /> </a> <a href="https://github.com/rishikumavatcoder"> <img height="180" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Drishikumavatcoder%26layout%3Dcompact%26hide_border%3Dtrue%26bg_color%3D141321%26title_color%3D00ffff%26text_color%3Dffffff" /> </a>
-
-<a href="https://github.com/rishikumavatcoder"> <img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Drishikumavatcoder%26hide_border%3Dtrue%26background%3D141321%26fire%3Dff00ff%26ring%3D00ffff%26currStreakLabel%3D00ffff%26sideLabels%3Dffffff%26currStreakNum%3Dffffff" alt="GitHub Streak" /> </a>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishikumavatcoder&theme=radical&hide_border=true&background=0D1117&ring=00f2ff&fire=39ff14&currStreakLabel=39ff14" alt="Streak Stats" />
 </div>
 
-<img src="https://www.google.com/search?q=https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50"> // ESTABLISH_UPLINK
-<div align="center">
+<br/>
 
+### 📂 // PINNED_PROTOCOLS
+
+<div align="center">
+  <p><i>Fetching latest deployments...</i></p>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00F2FF,39FF14,FF0055&height=100&section=footer"/>
+  <p>© 2024 Rishi Kumavat | <samp>END_OF_LINE</samp></p>
 </div>
